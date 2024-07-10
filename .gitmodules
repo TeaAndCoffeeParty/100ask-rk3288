@@ -1,0 +1,9 @@
+[submodule "firefly-rk3288_uboot"]
+	path = firefly-rk3288_uboot
+	url = git@github.com:TeaAndCoffeeParty/firefly-rk3288_uboot.git
+[submodule "firefly-rk3288_kernel"]
+	path = firefly-rk3288_kernel
+	url = git@github.com:TeaAndCoffeeParty/firefly-rk3288_kernel.git
+[submodule "firefly-rk3288_buildroot"]
+	path = firefly-rk3288_buildroot
+	url = git@github.com:TeaAndCoffeeParty/firefly-rk3288_buildroot.git
